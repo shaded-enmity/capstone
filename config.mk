@@ -65,7 +65,7 @@ CAPSTONE_X86_ATT_DISABLE ?= no
 # Change 'CAPSTONE_STATIC = yes' to 'CAPSTONE_STATIC = no' to avoid building
 # a static library.
 
-CAPSTONE_STATIC ?= yes
+CAPSTONE_STATIC ?= no
 
 
 ################################################################################
